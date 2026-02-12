@@ -142,7 +142,7 @@
         var together = new Date();
         together.setFullYear(2022, 09, 04);
         together.setHours(07);
-        together.setMinutes(34);
+        together.setMinutes(35);
         together.setSeconds(0);
         together.setMilliseconds(0);
 
